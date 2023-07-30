@@ -4,6 +4,7 @@
 
 .btn-primary{
     margin-bottom: 1em;
+    display: block;
 }
 .navbar{
     margin-bottom: 4%;
