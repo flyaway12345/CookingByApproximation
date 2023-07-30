@@ -19,11 +19,5 @@ export class RecipesComponent implements OnInit{
   });
   
 }
-
-ngOnChange(){
-    this.http.get(this.url).subscribe(res => {
-      this.recipeData = res;
-  });
-}
  
 }
