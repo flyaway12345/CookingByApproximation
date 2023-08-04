@@ -1,81 +1,68 @@
 [
     {
-        "name": "Popeye's Biscuits", 
-        "description": "All Puropse Flour: 2 cups, Sugar: 1 tbsp, Salt: 1 tbsp, Whole Milk: 1/4 cups, Butter Milk: 1/2 cups, Baking Powder: 1 1/2 tbsp, Baking soda: 1/2 tbsp, Cold Butter: 1/2 cups, Mix Ingredients, Put On Baking Sheet, Bake at 400 degrees(F) for 22 minutes ", 
-        "img": "https://cdn.vox-cdn.com/thumbor/5dQe5FbmAMYbchGCA92eKnB7QaU=/0x0:1500x996/1200x800/filters:focal(630x378:870x618)/cdn.vox-cdn.com/uploads/chorus_image/image/71050542/popeyesmove.0.jpg", 
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7261359125907524906?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    }, 
-    {
-        "name": "Texas Roadhouse Honey Butter", 
-        "description": "1 Stick Of Salted Butter(room temp), 1 1/2 tbsp of honey, 1/4 tbsp cinnamon, 1/4 cup of powdered sugar(optional), whisk until combined and refrigerate",
-        "img": "https://www.keyingredient.com/media/1c/2e/b302a65f0f0c01103f0d2666c9bbe76f7206.jpg/rh/texas-roadhouse-cinnamon-honey-butter.jpg",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7260537241141775658?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
-        "name": "McDonald's Sweet & Sour Sauce", 
-        "description": "1/4 cup of Apricot Preserve, 1/4 cup of Peach Preserve, 2 tbsp of Corn Syrup, 5 tsp of White Vinegar, 1/2 tsp of Soy Sauce,  1/2 tsp of Mustard, 1/4 tsp of salt, 1/8 tsp of Garlic, 1 1/2 tsp of Cornstarch, simmer in a saucepan for 5 minutes with 2 tbsp of water",
-        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_00409-120__0901_SweetNSour_832x472:1-3-product-tile-desktop?wid=765&hei=472&dpr=off",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7258347881399160106?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
-        "name": "Better Kraft Mac & Cheese", 
-        "description": "2 Boxs Of Kraft Mac & Cheese, 3 cups of Water, 1 cup of milk, 2 tbsp of butter, Add Seasoning(Your Choice), cook on medium heat then add cheese packets, add more cheese(any) on top, let it get to a boil, simmer and stir for 8-13 minutes",
-        "img": "https://bakeitwithlove.com/wp-content/uploads/2023/01/how-to-make-kraft-mac-cheese-better-sq.jpg",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7257446729358904619?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
-        "name": "Homemade Saracha", 
-        "description": " get 1 3/4 lbs of red jalapeno peppers, remove stems, cut longways, in a food proccessor mix in peppers, 3 Garlic Cloves, 2 tbsp of garlic powder, 2 tbsp of sugar, 1 tbsp of LIGHT brown sugar, 1 tbsp of kosher salt, run food processor until its a coarse puree, pour mixture into a GLASS container for 1 Week and leave at room temp, mix once a day unitl the 7th day, on the 8th day pour into a saucepan and add 1/2 cup of white distilled vinegar, cook to a boil, let rest for 5 minutes, put BACK into the food processor for 3 minutes(add water if it feels too thick), strain through a fine mesh strainer and put it back in a glass container ",
-        "img": "https://m.media-amazon.com/images/I/71iIOutiTsL.jpg",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7251730500581215531?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    }
-    ,
-    {
-        "name": "McDonalds Pancake Batter", 
-        "description": "add 1 1/3 cups of any pancake mix, 1/2 cup of water, 1/2 cup of McDonalds sprite",
-        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202208_0031_3HotCakes_832x472:1-3-product-tile-desktop?wid=765&hei=472&dpr=off",
-        "video": ""
-    },
-    {
-        "name": "Nutella Ice Cream", 
-        "description": "fill empty Nutella jar with heavy whipping cream, add sugar and vnilla extract to taste(it pays to be conservative here), add a pinch of salt, add toppings, shake well, put in freezer for min 4 hour perferably over night",
-        "img": "https://www.rossofinefood.com/5187-home_default/ferrero-nutella-450-g.jpg",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7249486626114555179?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
-        "name": "Homemade Cosmic Brownies", 
-        "description": "1/2 cup flour, 1/4 cup cocoa powder, 1/4 tsp of salt, 3/4 cup of brown sugar, 5 tbsp of unsalted butter, 1 egg, 1 egg yolk, 1 tbsp of honey, 1 tsp of vanilla, bake at 350 until you can poke a toothpick trough the center and no batter comes out",
-        "img": "https://cdn11.bigcommerce.com/s-fp5opfnomp/images/stencil/1280x1280/products/1514/21181/BP_Cosmic_Brownie_4__67515.1664892852.jpg?c=2?imbypass=on",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7245412168823213354?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
-        "name": "OG Supermarket Sugar Cookies", 
-        "description": "2 1/4 cup of flower, 1/2 tsp of baking powder, 1/4 teaspoon of baking soda, 1 tbsp of cornstarch, 1/2 teaspoon of salt, 1/2 cup  of butter(Room Temp), 1 cup of sugar, 1 egg, 1/4 cup of sour cream(room temp), 1 1/2 tsp of vanilla extract, bake at 350 until you can poke a toothpick trough the center and no batter comes out",
-        "img": "https://sugargeekshow.com/wp-content/uploads/2020/02/original-lofthouse-cookie-featured.jpg",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7243521246401449259?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
-        "name": "KFCs 11 Herbs And Spices", 
-        "description": "2/3 tsp salt, 1/2 tsp of thyme, 1/2 tsp of basil, 1/3 tsp of oregano, 1 tsp of celery salt, 1 tsp of black pepper,  1 tsp of dried mustard, 4 tsp of paprika, 2 tsp of garlic salt,  1 tsp of ground ginger, 3 tsp of white pepper",
-        "img": "https://www.allrecipes.com/thmb/PSKW6bmZL68uJ18EGTPi1_7LeBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kfc-11-herbs-and-spices-3x2-1-a1111d6cbbde44239365b527332b042c.png",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7240870526112091434?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
-        "name": "Olive Garden Alfrado Sauce", 
-        "description": "Saute 3oz of butter with 1 tbsp of garlic on medium heat for 1 minute, then add 2 tbsp of all purpose flour,1 1/2 cup of milk,1 1/2 cup of heavy cream, 1/2 cup of parmesan, 1/2 cup of romano cheese, add salk and pepper to taste, reduce to low heat and stir continuously unil done ",
-        "img": "https://princesspinkygirl.com/wp-content/uploads/2018/02/Copycat-Olive-Garden-Alfredo-Sauce-square-on-fork.jpg",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7237397376929910062?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
-        "name": "Homemade In & Out Spread", 
-        "description": "1/2 cup of mayo, 3 tbsp of ketchup, 2 tbsp of sweet pickled relish, 1/2 tsp of sugar, 1 1/2 tsp of distilled white vinegar, splach of Worcestershire sauce(optional), refrigerate for at least 1 hour after mixing",
-        "img": "https://www.seriouseats.com/thmb/kSm-Qs-KatqSeqbvaLjGlablHB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__20100723-in-n-out-05-spread-7dd2e994d21244549a689f7f6afbfb51.jpg",
-        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7235480499756584234?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
-    },
-    {
         "name": "Dr. Pepper Brownies", 
         "description": "To Any Browny Mix, Add 2 Eggs, 1/2 cup of oil(veg), 1/4 cup of Dr. Pepper, chocolate chips(optional), mix and bake at 350 for 20 minutes or until a toothpick comes out clean",
         "img": "https://www.southernliving.com/thmb/EEYBwcCbx1Ru2pSbExl1g57wozg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5f79b4fb7864fb96f6753e0ff88bbb26-2000-5f96989c6ef04c0884f7e3d63ae66166.jpg",
         "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7262646168872701226?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "Homemade In & Out Spread", 
+        "description": "1/2 cup of mayo, 3 tbsp of ketchup, 2 tbsp of sweet pickled relish, 1/2 tsp of sugar, 1 1/2 tsp of distilled white vinegar, splach of Worcestershire sauce(optional), refrigerate for at least 1 hour after mixing",
+        "img": "https://www.seriouseats.com/thmb/kSm-Qs-KatqSeqbvaLjGlablHB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__20100723-in-n-out-05-spread-7dd2e994d21244549a689f7f6afbfb51.jpg",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7235480499756584234?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "Olive Garden Alfrado Sauce", 
+        "description": "Saute 3oz of butter with 1 tbsp of garlic on medium heat for 1 minute, then add 2 tbsp of all purpose flour,1 1/2 cup of milk,1 1/2 cup of heavy cream, 1/2 cup of parmesan, 1/2 cup of romano cheese, add salk and pepper to taste, reduce to low heat and stir continuously unil done ",
+        "img": "https://princesspinkygirl.com/wp-content/uploads/2018/02/Copycat-Olive-Garden-Alfredo-Sauce-square-on-fork.jpg",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7237397376929910062?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "KFCs 11 Herbs And Spices", 
+        "description": "2/3 tsp salt, 1/2 tsp of thyme, 1/2 tsp of basil, 1/3 tsp of oregano, 1 tsp of celery salt, 1 tsp of black pepper,  1 tsp of dried mustard, 4 tsp of paprika, 2 tsp of garlic salt,  1 tsp of ground ginger, 3 tsp of white pepper",
+        "img": "https://www.allrecipes.com/thmb/PSKW6bmZL68uJ18EGTPi1_7LeBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kfc-11-herbs-and-spices-3x2-1-a1111d6cbbde44239365b527332b042c.png",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7240870526112091434?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "OG Supermarket Sugar Cookies", 
+        "description": "2 1/4 cup of flower, 1/2 tsp of baking powder, 1/4 teaspoon of baking soda, 1 tbsp of cornstarch, 1/2 teaspoon of salt, 1/2 cup  of butter(Room Temp), 1 cup of sugar, 1 egg, 1/4 cup of sour cream(room temp), 1 1/2 tsp of vanilla extract, bake at 350 until you can poke a toothpick trough the center and no batter comes out",
+        "img": "https://sugargeekshow.com/wp-content/uploads/2020/02/original-lofthouse-cookie-featured.jpg",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7243521246401449259?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "Homemade Cosmic Brownies", 
+        "description": "1/2 cup flour, 1/4 cup cocoa powder, 1/4 tsp of salt, 3/4 cup of brown sugar, 5 tbsp of unsalted butter, 1 egg, 1 egg yolk, 1 tbsp of honey, 1 tsp of vanilla, bake at 350 until you can poke a toothpick trough the center and no batter comes out",
+        "img": "https://cdn11.bigcommerce.com/s-fp5opfnomp/images/stencil/1280x1280/products/1514/21181/BP_Cosmic_Brownie_4__67515.1664892852.jpg?c=2?imbypass=on",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7245412168823213354?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "Nutella Ice Cream", 
+        "description": "fill empty Nutella jar with heavy whipping cream, add sugar and vnilla extract to taste(it pays to be conservative here), add a pinch of salt, add toppings, shake well, put in freezer for min 4 hour perferably over night",
+        "img": "https://www.rossofinefood.com/5187-home_default/ferrero-nutella-450-g.jpg",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7249486626114555179?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "McDonalds Pancake Batter", 
+        "description": "add 1 1/3 cups of any pancake mix, 1/2 cup of water, 1/2 cup of McDonalds sprite",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202208_0031_3HotCakes_832x472:1-3-product-tile-desktop?wid=765&hei=472&dpr=off",
+        "video": ""
+    },{
+        "name": "Homemade Saracha", 
+        "description": " get 1 3/4 lbs of red jalapeno peppers, remove stems, cut longways, in a food proccessor mix in peppers, 3 Garlic Cloves, 2 tbsp of garlic powder, 2 tbsp of sugar, 1 tbsp of LIGHT brown sugar, 1 tbsp of kosher salt, run food processor until its a coarse puree, pour mixture into a GLASS container for 1 Week and leave at room temp, mix once a day unitl the 7th day, on the 8th day pour into a saucepan and add 1/2 cup of white distilled vinegar, cook to a boil, let rest for 5 minutes, put BACK into the food processor for 3 minutes(add water if it feels too thick), strain through a fine mesh strainer and put it back in a glass container ",
+        "img": "https://m.media-amazon.com/images/I/71iIOutiTsL.jpg",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7251730500581215531?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "Better Kraft Mac & Cheese", 
+        "description": "2 Boxs Of Kraft Mac & Cheese, 3 cups of Water, 1 cup of milk, 2 tbsp of butter, Add Seasoning(Your Choice), cook on medium heat then add cheese packets, add more cheese(any) on top, let it get to a boil, simmer and stir for 8-13 minutes",
+        "img": "https://bakeitwithlove.com/wp-content/uploads/2023/01/how-to-make-kraft-mac-cheese-better-sq.jpg",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7257446729358904619?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "McDonald's Sweet & Sour Sauce", 
+        "description": "1/4 cup of Apricot Preserve, 1/4 cup of Peach Preserve, 2 tbsp of Corn Syrup, 5 tsp of White Vinegar, 1/2 tsp of Soy Sauce,  1/2 tsp of Mustard, 1/4 tsp of salt, 1/8 tsp of Garlic, 1 1/2 tsp of Cornstarch, simmer in a saucepan for 5 minutes with 2 tbsp of water",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_00409-120__0901_SweetNSour_832x472:1-3-product-tile-desktop?wid=765&hei=472&dpr=off",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7258347881399160106?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "Texas Roadhouse Honey Butter", 
+        "description": "1 Stick Of Salted Butter(room temp), 1 1/2 tbsp of honey, 1/4 tbsp cinnamon, 1/4 cup of powdered sugar(optional), whisk until combined and refrigerate",
+        "img": "https://www.keyingredient.com/media/1c/2e/b302a65f0f0c01103f0d2666c9bbe76f7206.jpg/rh/texas-roadhouse-cinnamon-honey-butter.jpg",
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7260537241141775658?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
+    },{
+        "name": "Popeye's Biscuits", 
+        "description": "All Puropse Flour: 2 cups, Sugar: 1 tbsp, Salt: 1 tbsp, Whole Milk: 1/4 cups, Butter Milk: 1/2 cups, Baking Powder: 1 1/2 tbsp, Baking soda: 1/2 tbsp, Cold Butter: 1/2 cups, Mix Ingredients, Put On Baking Sheet, Bake at 400 degrees(F) for 22 minutes ", 
+        "img": "https://cdn.vox-cdn.com/thumbor/5dQe5FbmAMYbchGCA92eKnB7QaU=/0x0:1500x996/1200x800/filters:focal(630x378:870x618)/cdn.vox-cdn.com/uploads/chorus_image/image/71050542/popeyesmove.0.jpg", 
+        "video": "https://www.tiktok.com/@jordan_the_stallion8/video/7261359125907524906?is_from_webapp=1&sender_device=pc&web_id=7171597591154443822"
     }
 ]
