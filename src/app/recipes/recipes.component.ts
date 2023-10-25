@@ -8,8 +8,8 @@ import { HttpClient, HttpClientModule } from '@angular/common/http'
 export class RecipesComponent implements OnInit{
 
   recipeData: any;
-  url: string = './assets/recipes.json';
-  // url: string = 'https://raw.githubusercontent.com/flyaway12345/CookingByApproximation/main/src/assets/recipes.json';
+  // url: string = './assets/recipes.json';
+  url: string = 'https://raw.githubusercontent.com/flyaway12345/CookingByApproximation/main/src/assets/recipes.json';
   public constructor(private http: HttpClient) {}
 
 
