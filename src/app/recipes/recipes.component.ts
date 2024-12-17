@@ -9,7 +9,7 @@ export class RecipesComponent implements OnInit{
 
   recipeData: any;
   // url: string = './assets/recipes.json';
-  url: string = 'https://raw.githubusercontent.com/flyaway12345/CookingByApproximation/main/src/assets/recipes.json';
+  url: string = 'https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/json/recipes.json';
   public constructor(private http: HttpClient) {}
 
 
