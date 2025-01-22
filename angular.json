@@ -16,7 +16,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/jordans-recipes",
+            "outputPath": "dist/cooking-by-approximation",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -98,7 +98,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "./",
+            "baseHref": "https://flyaway12345.github.io/CookingByApproximation/",
             "name": "HI Media Creations"
           }
         }
