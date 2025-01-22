@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { FooterComponent } from './footer.component';
+import { LiveDesktopComponent } from './live-desktop.component';
 
-describe('FooterComponent', () => {
-  let component: FooterComponent;
-  let fixture: ComponentFixture<FooterComponent>;
+describe('LiveDesktopComponent', () => {
+  let component: LiveDesktopComponent;
+  let fixture: ComponentFixture<LiveDesktopComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ FooterComponent ]
+      imports: [LiveDesktopComponent]
     })
     .compileComponents();
-
-    fixture = TestBed.createComponent(FooterComponent);
+    
+    fixture = TestBed.createComponent(LiveDesktopComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
